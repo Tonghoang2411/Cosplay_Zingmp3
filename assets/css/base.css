@@ -1,0 +1,21 @@
+:root{
+    --light-color: #294162;
+    --dark-color: #1d375a;
+    --white-color: #fff;
+    --black-color: #000;
+}
+
+*{
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.active {
+    color: var(--light-color);
+}
