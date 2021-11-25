@@ -468,7 +468,7 @@
 }
 
 .section-image{
-    background-image: url('/assets/img/117251156_780671119335149_3490588943834725576_n.jpg');
+    background-image: url('../img/user.jpg');
     width:260px;
     height:260px;
     background-size: cover;
